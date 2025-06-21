@@ -1,7 +1,7 @@
 # Social Media Performance Dashboard
+---
 
-
-## Project Overview
+## About The Project
 
 This project is focused on developing a **Social Media Performance Dashboard** to analyze key metrics across multiple social media platforms including **Facebook**, **Instagram**, **Twitter**, and **LinkedIn**. The goal is to provide a clear, insightful, and visually appealing dashboard that helps track and measure various performance indicators such as **Click-Through Rates (CTR)**, **Engagement Rates**, **Impressions**, **Shares**, **Reactions**, **Video Views**, and **Follower Demographics**.
 
